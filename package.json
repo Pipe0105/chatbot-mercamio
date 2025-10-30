@@ -2,6 +2,7 @@
   "name": "chatbot-mercamio",
   "version": "1.0.0",
   "description": "Chatbot para pedidos de carne en WhatsApp",
+  "type": "module",
   "main": "src/app.js",
   "scripts": {
     "start": "node src/app.js",
